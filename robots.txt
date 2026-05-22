@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://prime-casino-online.com/
+Sitemap: https://prime-casino-online.com/sitemap.xml

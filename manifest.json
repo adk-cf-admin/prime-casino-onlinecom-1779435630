@@ -1,0 +1,19 @@
+{
+  "name": "Prime",
+  "short_name": "Prime",
+  "theme_color": "",
+  "background_color": "#A2895A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779435149-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
